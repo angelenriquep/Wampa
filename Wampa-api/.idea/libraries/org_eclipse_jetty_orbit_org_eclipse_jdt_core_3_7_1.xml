@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jetty.orbit:org.eclipse.jdt.core:3.7.1" type="repository">
+    <properties maven-id="org.eclipse.jetty.orbit:org.eclipse.jdt.core:LATEST" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/orbit/org.eclipse.jdt.core/3.8.2.v20130121/org.eclipse.jdt.core-3.8.2.v20130121.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
